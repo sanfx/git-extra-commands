@@ -1,0 +1,17 @@
+.pypirc
+maildiff.egg-info
+*.png
+*.jpg
+*.egg
+*.gz
+*.pyo
+build
+chart.png
+*coverage
+*.patch
+*.pyc
+*.sublime-workspace
+*.sublime-project
+notes.txt
+*.glue
+pytz-2015.4-py2.7.egg
